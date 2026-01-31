@@ -188,7 +188,7 @@ Module00/
 - **Physics-Based Movement**: ForceMode ile gerçekçi hareket
 - **Frame-Independent Update**: Time.deltaTime kullanımı
 
-## � Notlar
+## 📝 Notlar
 
 - Tüm scriptler C# ile yazılmıştır
 - Unity'nin component-based architecture'ı takip edilmiştir
