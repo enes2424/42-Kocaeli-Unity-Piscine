@@ -1,0 +1,35 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]serSettings/
+
+# User-specific files
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Rider / VSCode
+.vscode/
+.idea/
+
+# Crash reports
+sysinfo.txt
+
+# Gradle
+.gradle/
