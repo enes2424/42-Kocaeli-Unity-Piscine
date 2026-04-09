@@ -7,9 +7,9 @@
 <tr style="display:flex; justify-content:space-around; paddind:0;">
 <td style="padding:0; margin:0;">
 
-| Proje Adı                         | Proje Durumu                              |
-| :-:                               | :-:                                       |
-| [unity00][unity00_tree]         | [![unity00_badge]][unity00_tree]        |
+|        Proje Adı        |           Proje Durumu           |
+| :---------------------: | :------------------------------: |
+| [unity00][unity00_tree] | [![unity00_badge]][unity00_tree] |
 
 </td></tr>
 
